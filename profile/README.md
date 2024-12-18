@@ -57,6 +57,11 @@ Leverage pre-built, ready-to-use **Templates** to kickstart your Angular project
 
 ---
 
+### **NPM Packages**
+Discover additional NPM packages to enhance your Angular applications and development experience.
+
+---
+
 ### **AnalogJS**
 A dedicated section for **AnalogJS**, the cutting-edge meta-framework for Angular, including:
 - **Learning** resources: 
