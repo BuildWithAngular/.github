@@ -78,6 +78,6 @@ A dedicated section for **AnalogJS**, the cutting-edge meta-framework for Angula
 
 ---
 
-### Thank you for your interest in [**Build with Angular**](https://built.withangular.dev).
+### Thank you for your interest in [**Build with Angular**](https://build.withangular.dev).
 
 ## Explore, learn, and create with confidence. Build with Angular empowers you to bring your ideas to life efficiently and creatively!
