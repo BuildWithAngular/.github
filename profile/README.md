@@ -14,17 +14,19 @@ With a comprehensive suite of tools, learning resources, and curated references,
 
 ### **DevTools**
 A collection of tools to simplify common development tasks and boost your efficiency:
+
 - **Style**:  
-  - Px to Rem Converter for responsive design.  
-  - Image Color Extractor to extract colors from images.
+  - **Px to Rem** Converter for responsive design.  
+  - Image **Color Extractor** to extract colors from images.
+
 - **Text**:  
-  - Convert Case tool for transforming text cases.  
-  - Character Counter for text analysis.  
-  - Lorem Ipsum Generator for quick placeholder text.  
-  - Fonts Explorer for discovering and managing typefaces.
+  - **Convert Case** and **Character Counter** tool for transforming text cases and text analysis.  
+  - **Lorem Ipsum Generator** for quick placeholder text.  
+  - **Fonts** Explorer for discovering and managing typefaces.
+
 - **Icons**:  
-  - PNG to SVG Converter for efficient icon management.  
-  - Icon Search for finding the perfect icon for your projects. 
+  - [SOON] **PNG to SVG** Converter for efficient icon management.  
+  - [SOON] **Icon** Search for finding the perfect icon for your projects. 
 
 ---
 
@@ -42,33 +44,34 @@ Improve your skills and gain hands-on experience with:
 - References to the best **Coding Platforms** to practice Angular.  
 - Recommendations for powerful **IDEs** tailored for Angular development.
 
----
+### **Building Blocks**
+A collection of tools to simplify common development tasks and boost your efficiency:
 
-### **UI Libraries**
+- **UI Libraries**
 Discover and utilize the most popular Angular UI libraries:
-- **Angular Material**: The official Angular component library for a modern and consistent UI.  
-- **PrimeNG**: A rich set of UI components for Angular applications.
-- **DevExtreme** and more
+  - **Angular Material**: The official Angular component library for a modern and consistent UI.  
+  - **PrimeNG**: A rich set of UI components for Angular applications.
+  - **DevExtreme** and more
 
----
-
-### **Templates**
-Leverage pre-built, ready-to-use **Templates** to kickstart your Angular projects and save development time.
-
----
-
-### **NPM Packages**
+- **NPM Packages**
 Discover additional NPM packages to enhance your Angular applications and development experience.
+
+- **Templates**
+Leverage pre-built, ready-to-use **Templates** to kickstart your Angular projects and save development time.
 
 ---
 
 ### **AnalogJS**
 A dedicated section for **AnalogJS**, the cutting-edge meta-framework for Angular, including:
+
 - **Learning** resources: 
   - The official **AnalogJS Documentation** reference.
   - Tutorials 
   - Books 
+
 - Ready-to-use **Templates** for fast development with AnalogJS.
+
+- NPM packages
 
 ---
 
